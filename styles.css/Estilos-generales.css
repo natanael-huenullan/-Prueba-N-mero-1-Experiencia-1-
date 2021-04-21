@@ -1,0 +1,34 @@
+body {
+    background: #654ea3;
+    background: linear-gradient(to right, #e96443, #904e95);
+}
+
+h1{
+
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+h3{
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+h5{
+    font-family: 'Roboto Mono', monospace;
+}
+
+p{
+    font-size: 1.2rem;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+
+#margenes-logo{
+
+    text-align: center;
+}

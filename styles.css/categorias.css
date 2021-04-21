@@ -1,0 +1,105 @@
+img{ 
+    float:left;
+    height: 500px;
+    width: 460px;
+    margin-left: 30px;
+    border: solid;
+
+}
+
+#boton-categoria{
+    padding-top: 2rem;
+    padding-left: 34rem;
+    padding-bottom: 10rem;
+}
+
+#fondo-vegetariano{
+
+    background-color: white;
+    margin-left: 0px ;
+    margin-right: -24px;
+    padding-bottom: 5px;
+    text-align: center;
+
+}
+
+#fondo-vegetariano2{
+
+    background-color: white;
+    padding-bottom: 5px;
+    margin-right: -24px;
+    text-align: center;
+
+}
+
+#fondo-vegetariano3{
+
+    background-color: white;
+    margin-left: 0px ;
+    margin-right: -40px;
+    padding-bottom: 61px;
+    text-align: center;
+
+}
+
+#fondo-premium3{
+
+    background-color: white;
+    margin-left: 0px ;
+    margin-right: -42px;
+    padding-bottom: 22px;
+    text-align: center;
+
+}
+
+#fondo-premium2{
+
+    background-color: white;
+    padding-bottom: 50px;
+    margin-right: -24px;
+    text-align: center;
+
+
+}
+
+#fondo-premium{
+
+    background-color: white;
+    padding-bottom: 50px;
+    margin-right: -24px;
+    text-align: center;
+
+
+}
+
+#fondo-sdmundo{
+
+    background-color: white;
+    padding-bottom: 50px;
+    margin-right: -24px;
+    text-align: center;
+
+
+}
+
+#fondo-sdmundo2{
+
+    background-color: white;
+    padding-bottom: 50px;
+    margin-right: -24px;
+    text-align: center;
+
+
+}
+
+#fondo-sdmundo3{
+
+    background-color: white;
+    padding-bottom: 50px;
+    margin-right: -24px;
+    text-align: center;
+
+
+}
+
+
